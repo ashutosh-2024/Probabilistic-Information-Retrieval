@@ -21,3 +21,7 @@ The user enters keywords and the related documents for the same are shown to the
 # **Example 2 :**
 <br/>
 <img width="473" alt="Screenshot 2022-08-27 at 4 21 15 PM" src="https://user-images.githubusercontent.com/78266562/187026967-1600628e-e83c-47c5-b51f-a60fcffd6038.png">
+
+**2 Minute Demo Video Link :** https://drive.google.com/file/d/1SvkvopSsPhf2iFNu33BS_Ftwz339EvFb/view?usp=sharing
+
+![Probabilistic Information Retrieval Model](https://user-images.githubusercontent.com/78266562/187032525-5c101a41-cbbb-4255-b443-093aa1bef44e.jpg)
